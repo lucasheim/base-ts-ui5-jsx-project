@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "es6",
+        "jsx": "react-native",
+        "experimentalDecorators": true,
+        "alwaysStrict": true,
+        "noImplicitAny": false,
+        "strictNullChecks": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "inlineSourceMap": true,
+        "inlineSources": true,
+        "baseUrl": "./"
+    },
+    "include": [
+        "src/main/**/*",
+        "local-definitions/**/*",
+        "./node_modules/@ui5-next/types/bin/index.d.ts",
+        "./node_modules/typescript/lib/lib.es6.d.ts"
+    ],
+    "exclude": [
+        "resources",
+        "**/*.spec.ts"
+    ]
+}

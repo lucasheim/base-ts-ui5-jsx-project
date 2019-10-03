@@ -1,0 +1,9 @@
+import JSView from "sap/ui/core/mvc/JSView";
+import Page from "sap/m/Page";
+export class Detail extends JSView {
+    createContent() {
+        return (<Page title="lala">
+      </Page>);
+    }
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiRGV0YWlsLnZpZXcuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJEZXRhaWwudmlldy50c3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxNQUFNLE1BQU0sd0JBQXdCLENBQUM7QUFDNUMsT0FBTyxJQUFJLE1BQU0sWUFBWSxDQUFDO0FBRTlCLE1BQU0sYUFBYyxTQUFRLE1BQU07SUFDekIsYUFBYTtRQUNsQixNQUFNLENBQUMsQ0FDTCxDQUFDLElBQUksQ0FDSCxLQUFLLENBQUMsTUFBTSxDQUNkO01BQUEsRUFBRSxJQUFJLENBQUMsQ0FDUixDQUFDO0lBQ0osQ0FBQztDQUNGIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEpTVmlldyBmcm9tIFwic2FwL3VpL2NvcmUvbXZjL0pTVmlld1wiO1xyXG5pbXBvcnQgUGFnZSBmcm9tIFwic2FwL20vUGFnZVwiO1xyXG5cclxuZXhwb3J0IGNsYXNzIERldGFpbCBleHRlbmRzIEpTVmlldyB7XHJcbiAgcHVibGljIGNyZWF0ZUNvbnRlbnQoKTogYW55IHtcclxuICAgIHJldHVybiAoXHJcbiAgICAgIDxQYWdlXHJcbiAgICAgICAgdGl0bGU9XCJsYWxhXCI+XHJcbiAgICAgIDwvUGFnZT5cclxuICAgICk7XHJcbiAgfVxyXG59XHJcbiJdfQ==

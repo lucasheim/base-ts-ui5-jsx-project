@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    [
+      "ui5-next",
+      {
+        "namespace": "test.typescript"
+      }
+    ]
+  ]    
+}
